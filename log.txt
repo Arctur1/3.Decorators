@@ -1,0 +1,1 @@
+ Logged at: 2021-05-06 18:07:08.631267+00:00 Name: example Args: ('1', '2') Kwargs: {'c': 1} Result: 1
